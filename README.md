@@ -1,12 +1,47 @@
-## Welcome to GitHub Pages
+## Custom Scenery for the Chicago and Milwaukee Areas
 
-You can use the [editor on GitHub](https://github.com/LGBudd/NLCD-Terrain/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Custom scenery for the Chicago (KORD) and Milwaukee (KMKE) areas, for the FlightGear Flight Simulator. This includes:
+- The airports recommended as of October 2020 from the X-Plane Scenery Gateway
+- Area includes scenery between the following coordinates: 
+  - min lat
+  - max lat 42.5
+  - min lon -
+  - max lon - 
+- Optional USGS orthophotos around major airports within the included area.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### NOTE: 
+This scenery is best when used together with "Champaign" and "Oshkosh and UP" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and NWI-UPM-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with decent scenery.
 
-### Markdown
+### Data Sources
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Airports: X-Plane Scenery Gateway: https://gateway.x-plane.com/
+- Landcover: National landcover database (NLCD): https://www.usgs.gov/centers/eros/science/national-land-cover-database
+- Elevation: Shuttle Radar Topology Mission 1-arc-second (SRTM-1), void-filled version: https://earthexplorer.usgs.gov/
+- Rivers and waterbodies: National Hydrography Dataset (NHD): https://www.usgs.gov/core-science-systems/ngp/national-hydrography
+- Buildings, roads, pylons, other objects: OpenStreetMap using osm2city: https://www.openstreetmap.org/ https://osm2city.readthedocs.io/en/latest/
+- FlightGear TerraSync objects
+- Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/
+
+### To Download
+
+To download the custom scenery files, go to the Releases page and download the zip archives.
+
+## Installation
+
+To install:
+1) Create a directory on your local hard drive
+2) Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Terrain.zip, and Orthophotos,zip 
+3) Extract the files into the local directory you've created. 
+
+For example, create a directory called "KORD-KMKE" on your computer. Extract the downloaded files into this directory. 
+
+4) Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher) 
+5) To use the custom materials definitions and custom textures created:
+    a) Download Illinois-data.zip and extract it. Rename the folder to "data.zip".
+    b) Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear 2020.4 directory. This should result in Illinois.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "Illinois" in the "$FG_ROOT/Textures/Terrain/" directory.
+ 6) Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, the click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. 
+ 7) Make the selections you want to use for your next flight then click "Fly", as usual.
+ 8) Rendering Options enable OSM buildings, detailed roads and pylons under 
 
 ```markdown
 Syntax highlighted code block
