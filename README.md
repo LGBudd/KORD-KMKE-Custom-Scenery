@@ -1,4 +1,14 @@
-## Custom Scenery for the Chicago and Milwaukee Areas
+## This site is Under Construction!
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
+
+The zip archives on the Releases page were created using the TerraGear and TerraGear-GUI programs developed by the FlightGear project. The git repository includes the source data. To download the resulting scenery, go to the Releases page and download the zip archives.
+
+## Chicago and Milwaukee Area Custom Scenery
 
 Custom scenery for the Chicago (KORD) and Milwaukee (KMKE) areas, for the FlightGear Flight Simulator. This includes:
 - The airports recommended as of October 2020 from the X-Plane Scenery Gateway
@@ -8,6 +18,8 @@ Custom scenery for the Chicago (KORD) and Milwaukee (KMKE) areas, for the Flight
   - min lon -
   - max lon - 
 - Optional USGS orthophotos around major airports within the included area.
+- Groundnets for the major airports within the area have been uploaded to Terrasync and now are included in the FlightGear database.
+- Updated NavData for KORD should be downloaded and installed with this custom scenery. The updated airport uses this updated data.
 
 ### NOTE: 
 This scenery is best when used together with "Champaign" and "Oshkosh and UP" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and NWI-UPM-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with decent scenery.
