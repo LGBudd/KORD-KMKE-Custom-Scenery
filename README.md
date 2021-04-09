@@ -38,7 +38,7 @@ This scenery is best when used together with "Champaign" and "Oshkosh and UP" cu
 
 To download the custom scenery files, go to the Releases page and download the zip archives.
 
-## Installation
+### Installation
 
 To install:
 1) Create a directory on your local hard drive
@@ -55,17 +55,14 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
  7) Make the selections you want to use for your next flight then click "Fly", as usual.
  8) Rendering Options enable OSM buildings, detailed roads and pylons under 
 
-Screenshots
+** Screenshots
 
+*** Chicago Downtown
 [Chicago Downtown](https://github.com/LGBudd/KORD-KMKE-Custom-Scenery/blob/master/Screenshots/Chicago20210326174334.png)
 
-[Chicago](
-[Link](url) and ![Image](src)
-```
-### Jekyll Themes
+*** Chicago Area
+[Chicago](https://github.com/LGBudd/KORD-KMKE-Custom-Scenery/blob/master/Screenshots/ChicagoB.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LGBudd/NLCD-Terrain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
