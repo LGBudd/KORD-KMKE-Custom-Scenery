@@ -57,10 +57,10 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
 
 ** Screenshots
 
-*** Chicago Downtown
+*** Approach to Chicago
 ![Chicago Downtown](https://github.com/LGBudd/KORD-KMKE-Custom-Scenery/blob/master/Screenshots/Chicago20210326174334.png)
 
-*** Chicago Area
+*** Chicago "Loop" (Downtown)
 ![Chicago](https://github.com/LGBudd/KORD-KMKE-Custom-Scenery/blob/master/Screenshots/ChicagoB.png)
 
 
