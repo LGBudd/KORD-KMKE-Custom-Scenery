@@ -55,8 +55,11 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
  7) Make the selections you want to use for your next flight then click "Fly", as usual.
  8) Rendering Options enable OSM buildings, detailed roads and pylons under 
 
+Screenshots
 
+[Chicago Downtown](https://github.com/LGBudd/KORD-KMKE-Custom-Scenery/blob/master/Screenshots/Chicago20210326174334.png)
 
+[Chicago](
 [Link](url) and ![Image](src)
 ```
 ### Jekyll Themes
