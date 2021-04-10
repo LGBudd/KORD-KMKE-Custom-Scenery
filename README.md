@@ -32,7 +32,7 @@ This scenery is best when used together with "Champaign" and "Oshkosh and UP" cu
 - Rivers and waterbodies: National Hydrography Dataset (NHD): https://www.usgs.gov/core-science-systems/ngp/national-hydrography
 - Buildings, roads, pylons, other objects: OpenStreetMap using osm2city: https://www.openstreetmap.org/ https://osm2city.readthedocs.io/en/latest/
 - FlightGear TerraSync objects
-- Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/
+- Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/ (**Note:** color correction done by an amateur)
 
 ### To Download
 
@@ -67,4 +67,4 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
 ![Takeoff from Milwaukee (KMKE)](https://github.com/LGBudd/KORD-KMKE-Custom-Scenery/blob/master/Screenshots/Takeoff%20from%20KMKE%203.png)
 
 ### Looking to the South of Milwaukee (with orthophotos)
-![South of Milwaukee](
+![South of Milwaukee](https://github.com/LGBudd/KORD-KMKE-Custom-Scenery/blob/master/Screenshots/Looking%20to%20%20the%20South%20from%20Milwaukee.png)
