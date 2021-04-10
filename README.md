@@ -57,10 +57,14 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
 
 ## Screenshots
 
-### Approach to Chicago
+### Approach to Chicago (with orthophotos)
 ![Chicago Downtown](https://github.com/LGBudd/KORD-KMKE-Custom-Scenery/blob/master/Screenshots/Chicago20210326174334.png)
 
-### Chicago "Loop" (Downtown)
+### Chicago "Loop" (Downtown) (with orthophotos)
 ![Chicago](https://github.com/LGBudd/KORD-KMKE-Custom-Scenery/blob/master/Screenshots/ChicagoB.png)
 
+### Takeoff from Milwaukee (KMKE) (with orthophotos
+![Takeoff from Milwaukee (KMKE)](https://github.com/LGBudd/KORD-KMKE-Custom-Scenery/blob/master/Screenshots/Takeoff%20from%20KMKE%203.png)
 
+### Looking to the South of Milwaukee (with orthophotos)
+![South of Milwaukee](
