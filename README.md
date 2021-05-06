@@ -57,6 +57,11 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
  7) Make the selections you want to use for your next flight then click "Fly", as usual.
  8) Rendering Options enable OSM buildings, detailed roads and pylons under 
 
+### Southwest Airlines Traffic Files for KMDW
+A traffic file for Southwest Airlines flights to and from Chicago Midway Airport (KMDW) were generated. To install the file:
+1) extract the .zip file into a temporary directory of your choosing.
+2) cut the SWA.xml file and past it into the \FlightGear [version]\data\AI\Traffic\S folder.
+
 ## Screenshots
 
 ### Approach to Chicago (with orthophotos)
