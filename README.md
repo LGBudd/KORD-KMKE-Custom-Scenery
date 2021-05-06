@@ -1,3 +1,6 @@
+# Chicago and Milwaukee Custom Scenery
+Custom NLCD scenery for the area covered by Chicago, Milwaukee and the surrounding suburbs
+
 ## License
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
