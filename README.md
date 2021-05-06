@@ -21,7 +21,7 @@ Custom scenery for the Chicago (KORD) and Milwaukee (KMKE) areas, for the Flight
   - max lon -87.0 
 - Optional USGS orthophotos around major airports within the included area.
 - Groundnets for the major airports within the area (KORD, KMDW, KMKE) have been uploaded to Terrasync and now are included in the FlightGear database.
-- Updated NavData for KORD should be downloaded and installed with this custom scenery. The updated airport uses this updated data.
+- Updated NavData for KORD should be downloaded and installed with this custom scenery. The updated airport uses this updated navigation data.
 
 ### NOTE: 
 This scenery is best when used together with "Champaign" and "Oshkosh and UP" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and NWI-UPM-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with decent scenery.
