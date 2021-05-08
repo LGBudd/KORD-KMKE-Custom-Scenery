@@ -38,7 +38,7 @@ This scenery is best when used together with "Champaign" and "Oshkosh and UP" cu
 
 ### To Download
 
-To download the custom scenery files, go to the Releases page and download the zip archives.
+To download the custom scenery files, go to the https://drive.google.com/drive/folders/1u5Y2KHQvpC88teBWVHXiXIJLXlnbitrz?usp=sharing and download the zip archives.
 
 ### To Install
 
