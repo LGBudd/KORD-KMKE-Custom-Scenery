@@ -38,7 +38,9 @@ This scenery is best when used together with "Champaign" and "Oshkosh and UP" cu
 
 ### To Download
 
-To download the custom scenery files, go to the https://drive.google.com/drive/folders/1u5Y2KHQvpC88teBWVHXiXIJLXlnbitrz?usp=sharing and download the zip archives.
+Note that the file KORD_KMKE_SourceCode.zip is quite large in size but is NOT NEEDED for the scenery, only for further development, should that be desired.
+
+The KORD_KMKE_Custom_Scenery files are available for download at the following link https://drive.google.com/drive/folders/1u5Y2KHQvpC88teBWVHXiXIJLXlnbitrz?usp=sharing. There you can download the following zip archives: Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Details.zip, Terrain.zip and (optionally) Orthophotos.zip. You may also download custom materials definitions and textures in the file Illinois-data.zip, which should help make the scenery more realistic.
 
 ### To Install
 
