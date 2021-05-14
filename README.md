@@ -24,7 +24,7 @@ Custom scenery for the Chicago (KORD) and Milwaukee (KMKE) areas, for the Flight
 - Updated NavData for KORD should be downloaded and installed with this custom scenery. The updated airport uses this updated navigation data.
 
 ### NOTE: 
-This scenery is best when used together with "Champaign" and "Oshkosh and UP" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and NWI-UPM-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with decent scenery.
+This scenery is best when used together with "Champaign" and "Oshkosh and UP" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and NWI-UPM-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with NLCD scenery.
 
 ### Data Sources
 
@@ -34,7 +34,7 @@ This scenery is best when used together with "Champaign" and "Oshkosh and UP" cu
 - Rivers and waterbodies: National Hydrography Dataset (NHD): https://www.usgs.gov/core-science-systems/ngp/national-hydrography
 - Buildings, roads, pylons, other objects: OpenStreetMap using osm2city: https://www.openstreetmap.org/ https://osm2city.readthedocs.io/en/latest/
 - FlightGear TerraSync objects
-- Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/ (**Note:** color correction done by an amateur)
+- Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/ (**Note:** color correction done by an amateur. If anyone is able and willing to provide better USGS corrected photos, please do.)
 
 ### To Download
 
@@ -52,7 +52,7 @@ To install:
 For example, create a directory called "KORD_KMKE_Custom_Scenery" on your computer. Extract the downloaded files into this directory. 
 
 4) Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher) 
-5) To use the custom materials definitions and custom textures created:
+5) To use the **custom materials definitions and custom textures** created:
     a) Download Illinois-data.zip and extract it. Rename the folder to "data.zip".
     b) Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear $FG_ROOT directory. This should result in Illinois.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "Illinois" in the "$FG_ROOT/Textures/Terrain/" directory.
  6) Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, the click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. 
