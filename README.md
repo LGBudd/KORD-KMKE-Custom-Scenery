@@ -50,7 +50,7 @@ The KORD_KMKE_Custom_Scenery files are available for download at the following l
 1.  Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Details.zip, Terrain.zip, and Orthophotos,zip 
 1.  Extract the files into the local directory you've created. For example, create a directory called "KORD_KMKE_Custom_Scenery" on your computer. Extract the downloaded files into this directory. 
 1.  Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher)
-1.  If you previously installed KORD-KMKE_Custom_Scenery skip to step 6, as you've already done this. Otherwise, to use the custom materials definitions and custom textures:
+1.  If you previously installed Champaign_Custom_Scenery skip to step 6, as you've already done this. Otherwise, to use the custom materials definitions and custom textures:
     1.  Download Illinois-data.zip and extract it. Rename the folder to "data.zip".
     1.  Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear $FG_ROOT directory. This should result in Illinois.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "Illinois" in the "$FG_ROOT/Textures/Terrain/" directory.
     1.  Copy the following: `<region include="Materials/regions/illinois.xml"/>`
