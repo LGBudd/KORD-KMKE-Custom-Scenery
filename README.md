@@ -36,7 +36,7 @@ This scenery is best when used together with "Champaign" and "KOSH-KATW-KGRB_and
 - Rivers and waterbodies: National Hydrography Dataset (NHD): https://www.usgs.gov/core-science-systems/ngp/national-hydrography
 - Buildings, roads, pylons, other objects: OpenStreetMap using osm2city: https://www.openstreetmap.org/ https://osm2city.readthedocs.io/en/latest/
 - FlightGear TerraSync objects
-- Orthophotos: color corrected USGS Orthophotos: https://earthexplorer.usgs.gov/ 
+- Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/ Credit: U.S. Geological Survey Color correction done by a first-time amateur.
 - Runway additions/deletion at KORD, along with new NavData
 
 ### To Download
