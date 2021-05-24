@@ -22,7 +22,7 @@ Custom scenery for the Chicago (KORD) and Milwaukee (KMKE) areas, for the Flight
 
 - Custom Material definitions and Textures for the area to make the land cover more realistic.
 - Optional USGS orthophotos around major airports within the included area.
-- Groundnets for the major airports within the area (KORD, KMDW, KMKE) have been uploaded to Terrasync and are included in the FlightGear database.
+- Groundnets for major airports (KMDW, KMKE) have been uploaded to Terrasync and are included in the FlightGear database. A new Airports folder for KORD was created since the primary takeoff and landing runways at O'Hare have changed since WS2.0 was developed.
 - Updated NavData for KORD should be downloaded and installed with this custom scenery. The updated airport uses this updated navigation data.
 
 ### NOTE: 
@@ -43,7 +43,7 @@ This scenery is best when used together with "Champaign" and "KOSH-KATW-KGRB_and
 
 Note that the file KORD-KMKE_Data_Files.zip is quite large in size but is NOT NEEDED for the scenery, only for further development, should that be desired. It is not not needed unless you are a developer. 
 
-The KORD_KMKE_Custom_Scenery files are available for download at the following link https://drive.google.com/drive/folders/1u5Y2KHQvpC88teBWVHXiXIJLXlnbitrz?usp=sharing. There you can download the following zip archives: Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Details.zip, Terrain.zip and (optionally) Orthophotos.zip. You may also download custom materials definitions and textures in the file Illinois-data.zip, which should help make the scenery more realistic.
+The KORD_KMKE_Custom_Scenery files are available for download at the following link https://drive.google.com/drive/folders/1u5Y2KHQvpC88teBWVHXiXIJLXlnbitrz?usp=sharing. There you can download the following zip archives: Airports.zip, Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Details.zip, Terrain.zip and (optionally) Orthophotos.zip. You may also download custom materials definitions and textures in the file Illinois-data.zip, which should help make the scenery more realistic.
 
 ### To Install
 
