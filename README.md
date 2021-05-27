@@ -38,6 +38,7 @@ This scenery is best when used together with "Champaign" and "KOSH-KATW-KGRB_and
 - FlightGear TerraSync objects
 - Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/ Credit: U.S. Geological Survey. Color correction done by a first-time amateur.
 - Runway additions/deletion at KORD, along with new NavData
+- OSM2City worldbuild objects, since it was found that differences in elevation between WS2.0 scenery and this custom scenery were not significant.
 
 ### To Download
 
