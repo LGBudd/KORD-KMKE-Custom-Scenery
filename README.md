@@ -13,7 +13,7 @@ The zip archives on the Releases page were created using the TerraGear and Terra
 ## Chicago and Milwaukee Area Custom Scenery
 
 Custom scenery for the Chicago (KORD) and Milwaukee (KMKE) areas, for the FlightGear Flight Simulator. This includes:
-- The airports recommended as of October 2020 from the X-Plane Scenery Gateway
+- Area airports recommended as of October 2020 from the X-Plane Scenery Gateway
 - Area includes scenery between the following coordinates: 
   - min lat 41.5
   - max lat 44.0
