@@ -25,6 +25,8 @@ Custom scenery for the Chicago (KORD) and Milwaukee (KMKE) areas, for the Flight
 - Groundnets for major airports (KMDW, KMKE) have been uploaded to Terrasync and are included in the FlightGear database. A new Airports folder for KORD was created since the primary takeoff and landing runways at O'Hare have changed since WS2.0 was developed.
 - Updated NavData for KORD should be downloaded and installed with this custom scenery. The updated airport uses this updated navigation data.
 
+The zip archives were created using the TerraGear and TerraGear-GUI programs developed by the FlightGear project. The file repository on Google Drive includes the source data.
+
 ### NOTE: 
 This scenery is best when used together with "Champaign" and "KOSH-KATW-KGRB_and_UP_Mich" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with NLCD scenery.
 
