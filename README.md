@@ -55,13 +55,7 @@ The KORD_KMKE_Custom_Scenery files are available for download at the following l
 1.  If you previously installed Champaign_Custom_Scenery skip to step 6, as you've already done this. Otherwise, to use the custom materials definitions and custom textures:
     1.  Download Illinois-data.zip and extract it. Rename the folder to "data.zip".
     1.  Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear $FG_ROOT directory. This should result in Illinois.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "Illinois" in the "$FG_ROOT/Textures/Terrain/" directory.
-    1.  Copy the following: `<region include="Materials/regions/illinois.xml"/>`
-    1.  Paste the above into the "materials.xml" file within the "North America" section.
-
-1.  To use the custom materials and textures for this area:
-    1.  Download cwisc-data.zip and extract it. Rename the folder to "data.zip".
-    1.  Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear $FG_ROOT directory. This should result in wisconsin_central.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "CWisc" in the "$FG_ROOT/Textures/Terrain/" directory.
-    1.  Copy the following: `<region include="Materials/regions/wisconsin_central.xml"/>`
+    1.  Copy the following: `<region include="Materials/regions/central_illinois.xml"/>`
     1.  Paste the above into the "materials.xml" file within the "North America" section and save "materials.xml". 
 1.  Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, then click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. NOTE: If using more than one of the three sceneries mentioned in the "Chicago and Milwaukee Area Custom Scenery" section above, you must order them as follows to minimize issues at the scenery borders: KOSH-KATW-KGRB_and_UP_Mich (top), KORD-KMKE (middle), and Champaign (bottom). 
 1.  Make the selections you want to use for your next flight then click "Fly", as usual.
