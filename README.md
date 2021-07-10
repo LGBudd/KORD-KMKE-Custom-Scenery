@@ -1,4 +1,4 @@
-# Chicago and Milwaukee Area Custom Scenery
+# USA-Midwest-Chicago and Milwaukee Area Custom Scenery
 Custom NLCD scenery for the area covered by Chicago (including KORD, KMDW), Milwaukee (KMKE) and the surrounding suburbs.
 
 ## License
