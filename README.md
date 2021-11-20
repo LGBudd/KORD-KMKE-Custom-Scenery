@@ -67,7 +67,7 @@ Also download any available updates.
 ### Southwest Airlines Traffic Files for KMDW
 A traffic file for Southwest Airlines flights to and from Chicago Midway Airport (KMDW) were generated. To install the file:
 1) extract the .zip file into a temporary directory of your choosing.
-2) cut the SWA.xml file and past it into the \FlightGear [version]\data\AI\Traffic\S folder.
+2) cut the SWA.xml file and paste it into the \FlightGear [version]\data\AI\Traffic\S folder.
 
 ## Screenshots
 
